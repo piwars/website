@@ -1,0 +1,8 @@
+baseURL: "https://piwars.github.io"
+languageCode: "en-us"
+title: "Night Fury's blog"
+subtitle: "Piwars 2019"
+theme: "story"
+homepage: "https://piwars.github.com"
+params:
+  image: https://cdn.spacetelescope.org/archives/images/screen/heic0109a.jpg
